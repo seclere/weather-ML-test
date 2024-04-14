@@ -4,6 +4,14 @@ some fast machine learning tests with sci-kit
 data used: https://www.kaggle.com/datasets/bwandowando/philippine-major-cities-weather-data?resource=download
 
 preview of some data (april 14, 2024):
+![image](https://github.com/seclere/weather-ML-test/assets/166978374/acb55403-dd8b-4b89-a126-8f125af5df73)
+![image](https://github.com/seclere/weather-ML-test/assets/166978374/37f1ec2d-f8ef-4c36-b633-28b1255e5416)
+![image](https://github.com/seclere/weather-ML-test/assets/166978374/f38df221-96b0-4317-ab08-d7cfa54ef98d)
+![image](https://github.com/seclere/weather-ML-test/assets/166978374/c688beaf-1f9a-4729-b2eb-63f30b05003b)
+![image](https://github.com/seclere/weather-ML-test/assets/166978374/80c0825b-49fc-43a8-a422-91b74723cb51)
+
+
+
 
 
 
