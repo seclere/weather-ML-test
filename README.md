@@ -1,6 +1,12 @@
 # weather-ML-test
 some fast machine learning tests with sci-kit
 
+data used: https://www.kaggle.com/datasets/bwandowando/philippine-major-cities-weather-data?resource=download
+
+preview of some data (april 14, 2024):
+
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
